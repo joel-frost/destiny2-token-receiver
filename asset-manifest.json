@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/destiny2-token-receiver/static/css/main.073c9b0a.css",
-    "main.js": "/destiny2-token-receiver/static/js/main.b4985091.js",
+    "main.js": "/destiny2-token-receiver/static/js/main.1f4512de.js",
     "static/js/787.7f853acf.chunk.js": "/destiny2-token-receiver/static/js/787.7f853acf.chunk.js",
     "static/media/logo.svg": "/destiny2-token-receiver/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/destiny2-token-receiver/index.html",
     "main.073c9b0a.css.map": "/destiny2-token-receiver/static/css/main.073c9b0a.css.map",
-    "main.b4985091.js.map": "/destiny2-token-receiver/static/js/main.b4985091.js.map",
+    "main.1f4512de.js.map": "/destiny2-token-receiver/static/js/main.1f4512de.js.map",
     "787.7f853acf.chunk.js.map": "/destiny2-token-receiver/static/js/787.7f853acf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b4985091.js"
+    "static/js/main.1f4512de.js"
   ]
 }
