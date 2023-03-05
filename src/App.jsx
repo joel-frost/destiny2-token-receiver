@@ -14,7 +14,7 @@ function App() {
         let currentToken = urlParams.get('code');
         if (currentToken !== null) {
             setToken(currentToken);
-            setRedirect("http://localhost:3000/?code="+currentToken);
+            setRedirect("http://localhost:3000/login/?code="+currentToken);
         }
 
     }, []);
